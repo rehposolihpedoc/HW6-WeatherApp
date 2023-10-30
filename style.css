@@ -1,1 +1,14 @@
+* {
+    color: silver;
+}
+head {
+    background-color: black;
+}
+body {
+    background-color: black;
+}
 
+#five-day-fc {
+    margin-top: 50px;
+    justify-content: 30px;
+}
