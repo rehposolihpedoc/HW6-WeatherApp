@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 
 
-- Link to wesite: 
+- Link to wesite: https://rehposolihpedoc.github.io/HW6-WeatherApp/
 
 - 🌱 I’m currently learning **html, CSS, JSON, Jquery & JS**
 
