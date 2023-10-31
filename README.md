@@ -40,7 +40,8 @@ I wanted to push my boundries for working in API's.
 I was able to create a calendar using Jquery commands and methods.
 ## Learning journey:
 I learned how to:
- -Use Jquery.
+ -Use Json
+ -Use Third party API's
  -Use day.js.
 
 
