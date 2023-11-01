@@ -2,13 +2,19 @@
     color: silver;
 }
 head {
-    background-color: black;
+    background-color: rgb(19, 116, 236);
 }
 body {
-    background-color: black;
+    background-color: rgb(19, 116, 236);
 }
 
 #five-day-fc {
     margin-top: 50px;
     justify-content: 30px;
+}
+
+.row  {
+ border-style: solid;
+ border: 5px;
+ border-radius: 15px;
 }
